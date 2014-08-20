@@ -38,7 +38,7 @@ public class Cari6mController {
 			
 				cari.directory(new File("C:\\cari6mex\\"));
 				Process cariP=cari.start();
-			
+			 
 				int characterCount=0;
 				try
 				{
