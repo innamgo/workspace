@@ -1,0 +1,32 @@
+
+CARI-6M
+DECEMBER 3, 2001
+Civil Aerospace Medical Institute Federal Aviation Administration
+ษอออออออออออออออออออออออออออออออออออออออออออออป
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+บ                                             บ
+ศอออออออออออออออออออออออออออออออออออออออออออออผ
+ MAIN MENU 
+<1> Galactic radiation received on flights
+<2> Airport coordinates and elevation
+<3> Update heliocentric potential database 
+<4> Radiation at user-specified geographic
+    coordinates, altitude, and date
+<5> Help
+<6> Set printer connection
+<7> Exit program
+Press 1, 2, 3, 4, 5, 6, or 7 and <ENTER> 
