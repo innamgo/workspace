@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="CosmicRay/src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_20"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/commons-exec-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/hoon/stsWorkSpace/CosmicRay/CosmicRay/lib/commons-lang3-3.3.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

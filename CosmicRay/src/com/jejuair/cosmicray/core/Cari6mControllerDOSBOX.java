@@ -11,7 +11,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.util.Map;
  
-public class Cari6mController1 {
+public class Cari6mControllerDOSBOX {
 			/* 64비트 윈도우의 경우는 DOSBOX로 CARI-6M을 실행해야하며, DOSBOX설정 파일의 autoexec 마지막부분에
 				*   mount c "c:\cari6mex"
 			*		c:

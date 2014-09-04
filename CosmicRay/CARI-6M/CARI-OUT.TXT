@@ -54,3 +54,31 @@
 
         Effective dose 0.040 microsievert (0.000040 millisievert)
 
+        ==========================================================
+                   File name:  7C2203.DEG
+                   Flight notes:  ABC
+                   Date of flight:  03/2013
+                   Heliocentric potential:   517 MV
+
+        Location 1  (origin)
+        Lat 30 deg 20.9 min N    Long 90 deg 59 min E   Alt 8100 feet
+
+        Location 2  (30 minutes since lift-off) 
+        Lat 30 deg 50 min N    Long 80 deg 30 min E   Alt 8000 feet
+
+        Effective dose 0.046 microsievert (0.000046 millisievert)
+
+        ==========================================================
+                   File name:  7C2312.DEG
+                   Flight notes:  7C NOTICE
+                   Date of flight:  03/2013
+                   Heliocentric potential:   517 MV
+
+        Location 1  (origin)
+        Lat 20 deg 30 min N    Long 30 deg 40 min E   Alt 7000 feet
+
+        Location 2  (30 minutes since lift-off) 
+        Lat 20 deg 30 min N    Long 111 deg 20 min E   Alt 8000 feet
+
+        Effective dose 0.040 microsievert (0.000040 millisievert)
+
